@@ -1,1 +1,1 @@
-# Coursera---HTML-CSS-JS---Week2
+# Coursera---HTML-CSS-JS
