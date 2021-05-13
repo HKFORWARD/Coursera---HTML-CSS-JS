@@ -31,18 +31,6 @@ ul {
     width: 90%;
 }
 
-#chicken {
-    background-color: darkorchid;
-}
-
-#beef {
-    background-color: brown;
-}
-
-#sushi {
-    background-color: forestgreen;
-}
-
 
 /********** Desktop version **********/
 @media (min-width: 992px) {
